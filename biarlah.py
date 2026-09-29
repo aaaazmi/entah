@@ -93,4 +93,3 @@ for ax in [ax1, ax2, ax3, ax4]:
 plt.tight_layout(rect=[0.02, 0.02, 0.98, 0.93])
 plt.savefig("rms_approval_dashboard.png", dpi=180, bbox_inches="tight")
 plt.show()
-
